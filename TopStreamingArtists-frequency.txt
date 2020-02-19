@@ -1,0 +1,97 @@
+*************************************
+**  Artists including Frequency
+*************************************
+21 Savage | Frequency: 1
+24kGoldn | Frequency: 1
+A Boogie Wit da Hoodie | Frequency: 1
+Ali Gatie | Frequency: 1
+Ant Saunders | Frequency: 1
+Ariana Grande | Frequency: 1
+Arizona Zervas | Frequency: 2
+BROCKHAMPTON | Frequency: 1
+BTS | Frequency: 1
+Baby Keem | Frequency: 1
+Bad Bunny | Frequency: 1
+Benny blanco | Frequency: 1
+Billie Eilish | Frequency: 5
+Blackbear | Frequency: 2
+Calboy | Frequency: 1
+Camila Cabello | Frequency: 1
+Chance the Rapper | Frequency: 1
+Chris Brown | Frequency: 1
+Conan Gray | Frequency: 1
+DaBaby | Frequency: 4
+Dan + Shay | Frequency: 2
+Diplo | Frequency: 1
+Doja Cat | Frequency: 2
+Don Toliver | Frequency: 2
+Drake | Frequency: 1
+Dreamville | Frequency: 1
+Dua Lipa | Frequency: 1
+Ed Sheeran | Frequency: 3
+Ellie Goulding | Frequency: 1
+Eminem | Frequency: 19
+Flipp Dinero | Frequency: 1
+Future | Frequency: 1
+Halsey | Frequency: 10
+Harry Styles | Frequency: 4
+Idina Menzel | Frequency: 1
+Internet Money | Frequency: 1
+J. Cole | Frequency: 1
+JACKBOYS | Frequency: 1
+JP Saxe | Frequency: 1
+Jhene Aiko | Frequency: 1
+Joji | Frequency: 1
+Jonas Brothers | Frequency: 2
+Juice WRLD | Frequency: 8
+Justin Bieber | Frequency: 1
+KAROL G | Frequency: 1
+Khalid | Frequency: 3
+Lauv | Frequency: 2
+Lewis Capaldi | Frequency: 2
+Lil Baby | Frequency: 3
+Lil Mosey | Frequency: 1
+Lil Nas X | Frequency: 2
+Lil Tecca | Frequency: 3
+Lil Tjay | Frequency: 1
+Lil Uzi Vert | Frequency: 3
+Lizzo | Frequency: 1
+Luke Combs | Frequency: 1
+Mac Miller | Frequency: 12
+Maroon 5 | Frequency: 1
+Marshmello | Frequency: 2
+Matthew Wilder | Frequency: 1
+Meek Mill | Frequency: 1
+Megan Thee Stallion | Frequency: 1
+Moneybagg Yo | Frequency: 1
+Mustard | Frequency: 2
+NLE Choppa | Frequency: 3
+Noah Cyrus | Frequency: 1
+Old Dominion | Frequency: 1
+Olivia Rodrigo | Frequency: 1
+Polo G | Frequency: 2
+Post Malone | Frequency: 9
+Quality Control | Frequency: 1
+Rich The Kid | Frequency: 1
+Roddy Ricch | Frequency: 4
+Russ | Frequency: 1
+SHAED | Frequency: 1
+Selena Gomez | Frequency: 2
+Shawn Mendes | Frequency: 1
+Stunna 4 Vegas | Frequency: 1
+Surfaces | Frequency: 1
+TOKYO'S REVENGE | Frequency: 1
+Tame Impala | Frequency: 1
+The 7 Dimensions | Frequency: 1
+The Black Eyed Peas | Frequency: 1
+The Weeknd | Frequency: 2
+Tones and I | Frequency: 1
+Travis Scott | Frequency: 4
+Trevor Daniel | Frequency: 1
+Trippie Redd | Frequency: 2
+Tyga | Frequency: 1
+Tyler | Frequency: 1
+XXXTENTACION | Frequency: 4
+Y2K | Frequency: 1
+YNW Melly | Frequency: 3
+Young Thug | Frequency: 4
