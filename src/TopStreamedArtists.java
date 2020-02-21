@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.sql.Timestamp;
 
 /* Comments in this file describe the code BELOW the comment.
  * 
@@ -56,6 +57,11 @@ public class TopStreamedArtists {
 				frequency++;
 			}
 		}
+		// This will add the time the lists are generated to the output file.
+		Timestamp time = new Timestamp(new Date().getTime());
+		writer.write("\nDate this list was generated: " + time.toString());
+		writerfreq.write("\nDate this list was generated: "  + time.toString());
+		//Close the readers
 		writer.close();
 		writerfreq.close();
 	}
