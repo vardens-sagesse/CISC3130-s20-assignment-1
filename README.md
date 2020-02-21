@@ -3,7 +3,11 @@ Assignment 1 for CISC 3130/TY2/Spring 2020
 
 Contains code for Assignment #1 for the Spring 2020 Semester, section TY2.
 
-Two .txt output files are provided in the data folder. The .java can be found in src. The .csv can be found in source.
+=================================================================================
+
+The objective of this assignment is to write a program that will take information stored in a .csv file and generate two lists. The first list must display the artists that appear in the .csv file and the frequency of their appearances. Duplicate names must not appear in the output. The second list must have the names sorted in alphabetical order.
+
+Two .txt output files and the .csv file are provided in the data folder. The .java can be found in src.
 
 This code takes data from the .csv and seperates the fields by the delimiter value. In this case, it is the character ",".
 It will then sort the data in alphabetical order and remove duplicates. While it is doing this, it is also keeping track
