@@ -59,8 +59,8 @@ public class TopStreamedArtists {
 		}
 		// This will add the time the lists are generated to the output file.
 		Timestamp time = new Timestamp(new Date().getTime());
-		writer.write("\nDate this list was generated: " + time.toString());
-		writerfreq.write("\nDate this list was generated: "  + time.toString());
+		writer.write("\nThis list was generated on the following date: " + time.toString());
+		writerfreq.write("\nThis list was generated on the following date: "  + time.toString());
 		//Close the readers
 		writer.close();
 		writerfreq.close();
