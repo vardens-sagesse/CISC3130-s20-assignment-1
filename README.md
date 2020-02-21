@@ -3,7 +3,7 @@ Assignment 1 for CISC 3130/TY2/Spring 2020
 
 Contains code for Assignment #1 for the Spring 2020 Semester, section TY2.
 
-=================================================================================
+==============================================================================
 
 The objective of this assignment is to write a program that will take information stored in a .csv file and generate two lists. The first list must display the artists that appear in the .csv file and the frequency of their appearances. Duplicate names must not appear in the output. The second list must have the names sorted in alphabetical order. This could be useful for tracking an artist's performance over time.
 
